@@ -1,3 +1,4 @@
 # pythonfiles
-My learning journey of python.
-I have solved some interesting problems and I've also been to some coding Contests.
+My learning journey in python.
+Learnt a few basics of the language till now.
+
